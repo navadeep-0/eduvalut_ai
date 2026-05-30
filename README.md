@@ -409,10 +409,9 @@ into a single platform.
 
 # Author
 
-**Pavan Reddy**
+**Ganji Navadeep**
 
-BBA – Digital Technology  
-Mahindra University
+
 
 ### Interests
 
