@@ -1,0 +1,8 @@
+Flask==3.1.1
+Flask-MySQLdb==2.0.0
+Flask-Bcrypt==1.0.1
+mysqlclient==2.2.7
+requests==2.32.3
+python-docx==1.1.2
+PyPDF2==3.0.1
+Werkzeug==3.1.3
